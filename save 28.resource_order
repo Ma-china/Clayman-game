@@ -206,6 +206,7 @@
     {"name":"Sprite_torch","order":3,"path":"sprites/Sprite_torch/Sprite_torch.yy",},
     {"name":"Sprite_wall_16x16","order":4,"path":"sprites/Sprite_wall_16x16/Sprite_wall_16x16.yy",},
     {"name":"Sprite_wall","order":3,"path":"sprites/Sprite_wall/Sprite_wall.yy",},
+    {"name":"Sprite_weed","order":36,"path":"sprites/Sprite_weed/Sprite_weed.yy",},
     {"name":"Tileset_castle_2","order":3,"path":"tilesets/Tileset_castle_2/Tileset_castle_2.yy",},
     {"name":"Tileset_castle_3","order":4,"path":"tilesets/Tileset_castle_3/Tileset_castle_3.yy",},
     {"name":"Tileset_castle","order":2,"path":"tilesets/Tileset_castle/Tileset_castle.yy",},
