@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"reset_v",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"reset_v",
+  "parent":{
+    "name":"Script_player",
+    "path":"folders/Scripts/Script_player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

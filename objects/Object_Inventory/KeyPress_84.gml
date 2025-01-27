@@ -1,0 +1,1 @@
+global.game_data.inventory.item_add("Torch", 1, Sprite_torch);

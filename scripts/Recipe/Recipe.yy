@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Recipe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Recipe",
+  "parent":{
+    "name":"Script_inventory",
+    "path":"folders/Scripts/Script_inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

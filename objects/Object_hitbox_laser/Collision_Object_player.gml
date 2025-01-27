@@ -1,0 +1,1 @@
+global.game_data.heal = 0;

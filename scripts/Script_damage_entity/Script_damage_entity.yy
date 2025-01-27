@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script_damage_entity",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Script_damage_entity",
+  "parent":{
+    "name":"Script_enemy",
+    "path":"folders/Scripts/Script_enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

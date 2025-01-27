@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script_check_facing",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Script_check_facing",
+  "parent":{
+    "name":"Script_player",
+    "path":"folders/Scripts/Script_player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

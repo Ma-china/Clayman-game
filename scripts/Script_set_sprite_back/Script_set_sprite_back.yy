@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script_set_sprite_back",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Script_set_sprite_back",
+  "parent":{
+    "name":"Script_player",
+    "path":"folders/Scripts/Script_player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
