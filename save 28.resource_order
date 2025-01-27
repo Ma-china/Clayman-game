@@ -202,6 +202,7 @@
     {"name":"Sprite_stone","order":1,"path":"sprites/Sprite_stone/Sprite_stone.yy",},
     {"name":"Sprite_sword_colition","order":30,"path":"sprites/Sprite_sword_colition/Sprite_sword_colition.yy",},
     {"name":"Sprite_tekstbox","order":32,"path":"sprites/Sprite_tekstbox/Sprite_tekstbox.yy",},
+    {"name":"Sprite_throne","order":36,"path":"sprites/Sprite_throne/Sprite_throne.yy",},
     {"name":"Sprite_torch","order":3,"path":"sprites/Sprite_torch/Sprite_torch.yy",},
     {"name":"Sprite_wall_16x16","order":4,"path":"sprites/Sprite_wall_16x16/Sprite_wall_16x16.yy",},
     {"name":"Sprite_wall","order":3,"path":"sprites/Sprite_wall/Sprite_wall.yy",},

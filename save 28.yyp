@@ -62,7 +62,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"save 28",
   "resources":[
@@ -251,6 +251,7 @@
     {"id":{"name":"Sprite_stone","path":"sprites/Sprite_stone/Sprite_stone.yy",},},
     {"id":{"name":"Sprite_sword_colition","path":"sprites/Sprite_sword_colition/Sprite_sword_colition.yy",},},
     {"id":{"name":"Sprite_tekstbox","path":"sprites/Sprite_tekstbox/Sprite_tekstbox.yy",},},
+    {"id":{"name":"Sprite_throne","path":"sprites/Sprite_throne/Sprite_throne.yy",},},
     {"id":{"name":"Sprite_torch","path":"sprites/Sprite_torch/Sprite_torch.yy",},},
     {"id":{"name":"Sprite_wall_16x16","path":"sprites/Sprite_wall_16x16/Sprite_wall_16x16.yy",},},
     {"id":{"name":"Sprite_wall","path":"sprites/Sprite_wall/Sprite_wall.yy",},},
