@@ -62,7 +62,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"save 28",
   "resources":[
@@ -147,6 +147,8 @@
     {"id":{"name":"Script_set_sprite_back","path":"scripts/Script_set_sprite_back/Script_set_sprite_back.yy",},},
     {"id":{"name":"Script_stun_ani","path":"scripts/Script_stun_ani/Script_stun_ani.yy",},},
     {"id":{"name":"text_align","path":"scripts/text_align/text_align.yy",},},
+    {"id":{"name":"snd_bite","path":"sounds/snd_bite/snd_bite.yy",},},
+    {"id":{"name":"snd_step","path":"sounds/snd_step/snd_step.yy",},},
     {"id":{"name":"spr_Inventory_Box","path":"sprites/spr_Inventory_Box/spr_Inventory_Box.yy",},},
     {"id":{"name":"spr_Item_Fish","path":"sprites/spr_Item_Fish/spr_Item_Fish.yy",},},
     {"id":{"name":"spr_Item_Stick","path":"sprites/spr_Item_Stick/spr_Item_Stick.yy",},},
@@ -251,7 +253,6 @@
     {"id":{"name":"Sprite_stone","path":"sprites/Sprite_stone/Sprite_stone.yy",},},
     {"id":{"name":"Sprite_sword_colition","path":"sprites/Sprite_sword_colition/Sprite_sword_colition.yy",},},
     {"id":{"name":"Sprite_tekstbox","path":"sprites/Sprite_tekstbox/Sprite_tekstbox.yy",},},
-    {"id":{"name":"Sprite_throne","path":"sprites/Sprite_throne/Sprite_throne.yy",},},
     {"id":{"name":"Sprite_torch","path":"sprites/Sprite_torch/Sprite_torch.yy",},},
     {"id":{"name":"Sprite_wall_16x16","path":"sprites/Sprite_wall_16x16/Sprite_wall_16x16.yy",},},
     {"id":{"name":"Sprite_wall","path":"sprites/Sprite_wall/Sprite_wall.yy",},},
